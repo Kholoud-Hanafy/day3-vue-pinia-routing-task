@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": "100",
+      "name": "product One",
+      "price": 1000,
+      "instock": 5,
+      "description": "product One is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRk6tkB1KsCEv0E4NJ_Hzh_XEfH-yYCG7fI2bvnj8a0encxWslzFNfhbl_3jhSKuP7JRIa_FHxlWOUKtcY6jQRoE6_urW_tRMEXD9hwQvZev7Lr0M6x_q2v&usqp=CAE"
+    },
+    {
+      "id": "200",
+      "name": "product Two",
+      "price": 2000,
+      "instock": 15,
+      "description": "product Two is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTRKs0ZIERJ-0n7N1yjVCVgbLz5Ud0KKe1iHhSJsnmH2LpmP5IUUA-y21M-lVRPvSqiGm4TD6ZJNClkvS9N2jU_Ctf2uq_tdV5fSFcWbBk"
+    },
+    {
+      "id": "300",
+      "name": "product Three",
+      "price": 3000,
+      "instock": 500,
+      "description": "product Three is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSL2KVCuWwE0hsEhRCVZRHpu0jpMLpRHEO-nDPdhy2gWUwlvbhuYdckJLCKOURYdhzTvjiMIoMYsoE43PBE4evXKBU3IVnlyjpjol9i5qAM_BNyrUMo8JWW_Q"
+    },
+    {
+      "id": "400",
+      "name": "product Four",
+      "price": 8000,
+      "instock": 800,
+      "description": "product Four is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
+      "image": "https://www.redfoxpowersports.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/d/f/df250rts-800-rd_1.jpg"
+    },
+    {
+      "id": "500",
+      "name": "product Five",
+      "price": 5000,
+      "instock": 0,
+      "description": "product Five is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSWXQMENf3d8ADPDLa95WCAfRmLtHSKGbsgOrqhkGOIgFB29mUU-SD_4NSsBQU8MA8-V36o1BSeg51uQgzfCjCx8KsxmvjWflZXXPbJ6nid"
+    },
+    {
+      "id": "600",
+      "name": "product Six",
+      "price": 6000,
+      "instock": 3,
+      "description": "product Six is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQdebW5Apgdvp63cNjfcp1PUWn382vm3zh1muiRLNWVRjvxQ5675rfFybQ1agigX0Su51A5tYIl5bzIrIjU027XKhgP3WPeXCSyufzQndlc"
+    }
+  ],
+  "books": [
+    {
+      "id": "100",
+      "ISBN": "978-0142437209",
+      "Name": "To Kill a Mockingbird",
+      "Category": "Fiction",
+      "Image": "https://i.pinimg.com/564x/df/0c/98/df0c989f142dc07af2e86bd8d610bc80.jpg",
+      "Pages": 336,
+      "Author": "Harper Lee",
+      "Price": 10.99
+    },
+    {
+      "id": "200",
+      "ISBN": "978-0345337663",
+      "Name": "The Hobbit",
+      "Category": "Fantasy",
+      "Image": "https://i.pinimg.com/564x/20/28/d0/2028d092ac0010ff4bb802c3ce7cd45b.jpg",
+      "Pages": 600,
+      "Author": "J.R.R. Tolkien",
+      "Price": 8.99
+    },
+    {
+      "id": "300",
+      "ISBN": "978-0140283334",
+      "Name": "1984",
+      "Category": "Science Fiction",
+      "Image": "https://i.pinimg.com/564x/44/a0/b9/44a0b94bc6c17c1c3b00b1771bb1f523.jpg",
+      "Pages": 328,
+      "Author": "George Orwell",
+      "Price": 9.99
+    },
+    {
+      "id": "400",
+      "ISBN": "978-0553283686",
+      "Name": "The Shining",
+      "Category": "Horror",
+      "Image": "https://i.pinimg.com/236x/ab/1e/1a/ab1e1a5e0baae820e76cde6f3b7bfc17.jpg",
+      "Pages": 688,
+      "Author": "Stephen King",
+      "Price": 12.5
+    },
+    {
+      "id": "500",
+      "ISBN": "978-0060850524",
+      "Name": "The Alchemist",
+      "Category": "Fiction",
+      "Image": "https://i.pinimg.com/236x/e8/fa/78/e8fa78bbbc6562c578a8becfaea99983.jpg",
+      "Pages": 150,
+      "Author": "Paulo Coelho",
+      "Price": 11.99
+    },
+    {
+      "id": "600",
+      "ISBN": "978-0062315007",
+      "Name": "Gone Girl",
+      "Category": "Mystery",
+      "Image": "https://i.pinimg.com/236x/c2/7b/97/c27b97aa0323b9a6e21de94a73a8778d.jpg",
+      "Pages": 432,
+      "Author": "Gillian Flynn",
+      "Price": 13.25
+    },
+    {
+      "id": "700",
+      "ISBN": "978-0385490818",
+      "Name": "The Catcher in the Rye",
+      "Category": "Fiction",
+      "Image": "https://i.pinimg.com/236x/11/4b/a1/114ba19f4f9da0a62c840074a9d7d7e0.jpg",
+      "Pages": 288,
+      "Author": "J.D. Salinger",
+      "Price": 9.25
+    },
+    {
+      "id": "800",
+      "ISBN": "978-0743273565",
+      "Name": "The Great Gatsby",
+      "Category": "Fiction",
+      "Image": "https://i.pinimg.com/236x/0d/de/cd/0ddecd77668d911913e6d430ab33b4a3.jpg",
+      "Pages": 180,
+      "Author": "F. Scott Fitzgerald",
+      "Price": 8.5
+    },
+    {
+      "id": "900",
+      "ISBN": "978-0143126417",
+      "Name": "The Goldfinch",
+      "Category": "Fiction",
+      "Image": "https://i.pinimg.com/236x/25/8e/90/258e90779da5ac262eaf2f64d43fd6f3.jpg",
+      "Pages": 771,
+      "Author": "Donna Tartt",
+      "Price": 14.75
+    }
+  ]
+}
